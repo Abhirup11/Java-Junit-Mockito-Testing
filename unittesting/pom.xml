@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.abhirup.junit</groupId>
-  <artifactId>sampleJunit</artifactId>
+  <artifactId>unittesting</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>sampleJunit</name>
+  <name>unittesting</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

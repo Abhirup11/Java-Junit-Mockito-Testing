@@ -1,4 +1,4 @@
-package com.abhirup.junit.sampleJunit;
+package com.abhirup.junit.unittesting;
 
 import static org.junit.Assert.assertTrue;
 
